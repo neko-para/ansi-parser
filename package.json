@@ -1,6 +1,10 @@
 {
   "name": "@nekosu/ansi-parser",
   "version": "1.0.0",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/neko-para/ansi-parser.git"
+  },
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/types/index.d.ts",
